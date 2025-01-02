@@ -6,9 +6,9 @@ import time
 import threading
 import time
 
-pool_address = "pool.satoshiradio.nl"
-pool_port = 3333
-username = "bc1q70hs8q7t9wated3vsl77gaz9tg9x84s4yrqz45.nonce-guesser"
+pool_address = "stratum+tcp://btc.zsolo.bid"
+pool_port = 6057
+username = "34hYPbBwqM3N4FgXBSrh3euchZeZrKq7av.nonce-guesser"
 password = "x"
 num_threads = 12
 
